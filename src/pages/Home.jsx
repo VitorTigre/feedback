@@ -1,5 +1,9 @@
+import { CardContainer } from "./Home.styles";
+
 export function Home() {
     return(
-        <div> Home</div>
+        <CardContainer>
+            Home
+        </CardContainer>
     )
 }
